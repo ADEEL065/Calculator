@@ -1,4 +1,4 @@
-(/ABOUT/1.png)
+[(/ABOUT/1.png)](https://github.com/ADEEL065/Calculator/blob/9339fadfc7fd9eb4f9a3225e168bb50e7a27acf7/ABOUT/1.png)
 # 🧮 Linux Terminal Calculator (cal.sh)
 
 A menu-based **Linux Terminal Calculator** written in **Bash scripting**.  
